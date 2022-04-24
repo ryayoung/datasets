@@ -1,0 +1,20 @@
+{
+    "main": {
+        "u": "ryayoung",
+        "r": "datasets",
+        "b": "main",
+        "p": "data"
+    },
+    "sp500": {
+        "u": "datasets",
+        "r": "s-and-p-500-companies",
+        "b": "master",
+        "c": "data"
+    },
+    "openml": {
+        "u": "datasets",
+        "r": "openml-datasets",
+        "b": "master",
+        "p": "data"
+    }
+}
