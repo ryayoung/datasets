@@ -9,7 +9,7 @@
         "u": "datasets",
         "r": "s-and-p-500-companies",
         "b": "master",
-        "c": "data"
+        "p": "data"
     },
     "openml": {
         "u": "datasets",
